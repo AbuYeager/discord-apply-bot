@@ -1,5 +1,5 @@
 {
-  "name": "fivem-apply",
+  "name": "data.jason-apply",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Wick",
+  "author": "al3rab",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.14.1"
